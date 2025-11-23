@@ -1,0 +1,2 @@
+# Minimum runtime dependency for the project
+PySide6>=6.0.0
